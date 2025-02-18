@@ -3,7 +3,7 @@
         'name' => 'fullworks/stop-user-enumeration',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '41a8b417f09bd31455e37ca13d629dbc1f7b45bd',
+        'reference' => '403f31af12a8b2476d02311931446eda48815686',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../../',
         'aliases' => array(),
@@ -22,7 +22,7 @@
         'fullworks/stop-user-enumeration' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '41a8b417f09bd31455e37ca13d629dbc1f7b45bd',
+            'reference' => '403f31af12a8b2476d02311931446eda48815686',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../../',
             'aliases' => array(),
